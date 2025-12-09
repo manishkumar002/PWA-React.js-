@@ -47,7 +47,7 @@ Follow these steps to run the project locally.
 
 **1️⃣ Clone the Repository**
 ```base
-git clone https://github.com/your-username/ecommerce-pwa-react.git
+git clone https://github.com/manishkumar002/PWA-React.js-.git
 ```
 
 **2️⃣ Navigate to the Project**
